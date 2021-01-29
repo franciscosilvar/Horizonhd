@@ -1,4 +1,3 @@
-# Horizonhd<channels>
 <channel>
 <name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
 <thumbnail>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</thumbnail>
@@ -23,7 +22,6 @@
 <info>
 </channel>
 
-
 <channel>
 <name>[COLOR crimson][B]SERIADOS[/B][/COLOR]</name>
 <thumbnail>https://kikacastro.files.wordpress.com/2017/12/mosaicoseriesnetflix.jpg?w=1360</thumbnail>
@@ -32,11 +30,6 @@
 <info>
 </channel>
  
- 
- 
- 
-
-
 <channel>
 <name>[COLOR crimson][B]KIDS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</thumbnail>
@@ -44,14 +37,12 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</fanart>
 </channel>
 
-
 <channel>
 <name>[COLOR crimson][B]SHOWS[/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-J86NuX9nvyE/X_sja6mwPRI/AAAAAAAAEDo/5kLcm8SbCyUXZz9XmH1DdRNZqLlS7aYdgCLcBGAsYHQ/show-1280x720.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/shows</externallink>
 <fanart>https://www.baressp.com.br/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg</fanart>
 </channel>
- 
  
 <channels>
 <channel>
@@ -71,10 +62,7 @@
 <fanart>https://redesuper.com.br/wp-content/uploads/2016/08/gospel_play.png</fanart>
 </channel>
 
- 
-
-
- <channels>
+<channels>
 <channel>
 <name>[COLOR crimson][B] CONTEUDO YOUTUBE[/B][/COLOR]</name>
 <thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/01/youtube.jpg</thumbnail>
