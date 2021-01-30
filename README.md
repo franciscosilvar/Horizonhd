@@ -44,17 +44,6 @@
 <fanart>https://www.baressp.com.br/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg</fanart>
 </channel>
  
-<channels>
-<channel>
-<name>[COLOR crimson][B]CANAL RICOS[/B][/COLOR]</name>
-<thumbnail>https://1.bp.blogspot.com/-7vAgEQnD2jo/XLNqsJwX8eI/AAAAAAAAysM/hJ3m3Sez75MABUCWj7rAVD9piTImBpyUwCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.46_46.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/canal%20ricos%20link</externallink>
-<fanart>https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg</fanart>
-<info>PARTICIPE VIA FACEBOOK CANAL RICOS WEB<info>
-<info>
-</channel>
-</channels>
- 
 <channel>
 <name>[COLOR crimson][B]GOSPEL[/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-HcbhlNsrwW0/X_siSvCdsII/AAAAAAAAEDI/3TPnNS4v1cU704IRu8DNLScCGGio0l84QCLcBGAsYHQ/image.png</thumbnail>
