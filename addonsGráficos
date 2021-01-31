@@ -1,7 +1,6 @@
 
 
-<channels>
-<channel>
+<channels><channel>
 <name>[COLOR orange][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/ILomsJ5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES</externallink>
