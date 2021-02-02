@@ -58,3 +58,13 @@
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/youtube%20incide</externallink>
 <fanart>https://assets.b9.com.br/wp-content/uploads/2018/01/youtube.jpg</fanart>
 <info>
+</channel>
+
+</channels>
+<channel>
+<name>[COLOR Brown][B]SERIES[/B][/COLOR]</name>
+<thumbnail>https://www.apptuts.net/wp-content/uploads/2019/08/melhores-series-netflix-2019-capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIES</externallink>
+<fanart>https://academiawashington.com.br/wp-content/uploads/2017/09/melhores-series-para-aprender-ingles.jpg</fanart>
+<info></info>
+</channel>
