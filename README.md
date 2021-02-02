@@ -70,6 +70,6 @@
 <channel>
 <name>[COLOR Blue][B]ANIMES[/B][/COLOR]</name>
 <thumbnail>https://www.freeiconspng.com/uploads/naruto-icon-16.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/ANIMES</externallink>
 <fanart>https://nya-ani.me/wp-content/uploads/2017/12/One-Piece-East-Blue.jpg</fanart>
 </channel>
