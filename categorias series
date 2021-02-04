@@ -1,5 +1,9 @@
+<layouttype>thumbnail</layouttype>
 
-<channel>
+<channels>
+
+
+</channels><channel>
 <name>[COLOR purple][B]O Mandaloriano (2020)[/COLOR][/B][COLOR Gray][B][/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIES</externallink>
