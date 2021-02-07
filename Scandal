@@ -1,5 +1,10 @@
+<channels>
+</channels><channel>
+<name>[COLOR lime][B]1ª  Temporada[/B][/COLOR]</name>**********
+
+
 <item>
-<title>[COLOR lime][B]1ª Temporada[/B][/COLOR]</title>
+<title>[COLOR lime][B]temporada completa[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d143abe4967f541bb4185fd84adf08b64722f7ad</link>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/4XUw85xCKBxTn7TCg5vFU1YdSbW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/6ECpF7VSYFVFYMUoWI5XesRdFs9.jpg</fanart>
