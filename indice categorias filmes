@@ -4,6 +4,14 @@
 
 
 </channels><channel>
+<name>[COLOR gold][B]Filmes 2020[/B][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/ki3uU4p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20diversos</externallink>
+<fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
+<info></info>
+</channel>
+
+</channels><channel>
 <name>[COLOR yellow][B][I]LANÇAMENTOS 2021[/I][/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-Qz3ZbvkJNr0/X_HpUJHp3KI/AAAAAAAAECM/nUskqmXeBNYgnvtxMkNTiA5NHnOrQRGFgCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/2021</externallink>
