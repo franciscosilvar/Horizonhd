@@ -22,6 +22,15 @@
 <info>
 </channel>
 
+<channels>
+<channel>
+<name>[COLOR orange][B]CLASSICOS[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/i3DZkm3.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/indice%20categorias%20filmes</externallink>
+<fanart>https://i.imgur.com/E3hkJCe.jpg</fanart>
+<info>
+</channel>
+
 <channel>
 <name>[COLOR crimson][B]SERIADOS[/B][/COLOR]</name>
 <thumbnail>https://kikacastro.files.wordpress.com/2017/12/mosaicoseriesnetflix.jpg?w=1360</thumbnail>
