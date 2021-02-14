@@ -26,7 +26,7 @@
 <channel>
 <name>[COLOR orange][B]CLASSICOS[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/i3DZkm3.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/indice%20categorias%20filmes</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/cl%C3%A1ssicos</externallink>
 <fanart>https://i.imgur.com/E3hkJCe.jpg</fanart>
 <info>
 </channel>
