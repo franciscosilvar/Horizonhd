@@ -31,6 +31,7 @@
 <info>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR crimson][B]SERIADOS[/B][/COLOR]</name>
 <thumbnail>https://kikacastro.files.wordpress.com/2017/12/mosaicoseriesnetflix.jpg?w=1360</thumbnail>
@@ -39,6 +40,7 @@
 <info>
 </channel>
  
+<channels
 <channel>
 <name>[COLOR crimson][B]KIDS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</thumbnail>
@@ -46,6 +48,7 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</fanart>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR crimson][B]SHOWS[/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-J86NuX9nvyE/X_sja6mwPRI/AAAAAAAAEDo/5kLcm8SbCyUXZz9XmH1DdRNZqLlS7aYdgCLcBGAsYHQ/show-1280x720.jpeg</thumbnail>
@@ -53,6 +56,7 @@
 <fanart>https://www.baressp.com.br/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg</fanart>
 </channel>
  
+<channels>
 <channel>
 <name>[COLOR crimson][B]GOSPEL[/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-HcbhlNsrwW0/X_siSvCdsII/AAAAAAAAEDI/3TPnNS4v1cU704IRu8DNLScCGGio0l84QCLcBGAsYHQ/image.png</thumbnail>
@@ -68,6 +72,7 @@
 <fanart>https://assets.b9.com.br/wp-content/uploads/2018/01/youtube.jpg</fanart>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR orange][B] COLEÇÕES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
@@ -75,6 +80,7 @@
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR orange][B] SERIES[/B][/COLOR]</name>
 <thumbnail>https://www.apptuts.net/wp-content/uploads/2019/08/melhores-series-netflix-2019-capa.jpg</thumbnail>
@@ -82,6 +88,7 @@
 <fanart>https://academiawashington.com.br/wp-content/uploads/2017/09/melhores-series-para-aprender-ingles.jpg</fanart>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR orange][B] ANIMES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/EERTTH5.jpg</thumbnail>
