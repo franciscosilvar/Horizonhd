@@ -1,5 +1,5 @@
 <channel>
-<name>[COLOR darkblue][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
+<name>[COLOR blueviolet][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
 <thumbnail>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</fanart>
@@ -70,9 +70,9 @@
 
 <channel>
 <name>[COLOR orange][B] COLEÇÕES[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/cZcRfij.png</thumbnail>
+<thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/COLE%C3%87%C3%95ES</externallink>
-<fanart>https://i.imgur.com/equ1byi.jpg</fanart>
+<fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
 </channel>
 
 <channel>
