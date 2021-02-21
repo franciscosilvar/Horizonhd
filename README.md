@@ -71,7 +71,7 @@
 <channel>
 <name>[COLOR orange][B] COLEÇÕES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/cZcRfij.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/ANIMES</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/COLE%C3%87%C3%95ES</externallink>
 <fanart>https://i.imgur.com/equ1byi.jpg</fanart>
 </channel>
 
