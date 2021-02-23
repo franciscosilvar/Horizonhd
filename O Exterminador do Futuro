@@ -1,8 +1,3 @@
-<channels>
-</channels><channel>
-<name>[COLOR green][B] O Exterminador do Futuro[/B][/COLOR]</name>**********
-
-
 <item>
 <title>[COLOR green][B] O Exterminador do Futuro [COLOR blue] (1984) [/COLOR][/COLOR][COLOR crimson] 720p [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d31f8db47296c5188bc3e67a51584e51ebf9ae7&dn=O+Exterminador+do+Futuro+%281984%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
@@ -44,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR green][B] O Exterminador do Futuro [COLOR blue] (1984) [/COLOR][/COLOR][COLOR crimson] 1080p [B][/COLOR][/B]</title>
+<title>[COLOR green][B] O Exterminador do Futuro [COLOR blue] (2019) [/COLOR][/COLOR][COLOR crimson] 1080p [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3e0a6f4bf91d2c9386f330760748fc63d2ef94</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
