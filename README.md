@@ -92,6 +92,6 @@
 <channel>
 <name>[COLOR orange][B] ANIMES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/EERTTH5.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/ANIMES</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20animes</externallink>
 <fanart>https://nya-ani.me/wp-content/uploads/2017/12/One-Piece-East-Blue.jpg</fanart>
 </channel>
