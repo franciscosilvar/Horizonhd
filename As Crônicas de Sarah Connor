@@ -1,6 +1,24 @@
+<channels>
+</channels><channel>
+<name>[COLOR lime][B]1ª  Temporada[/B][/COLOR]</name>**********
+
+
 <item>
-<title>[COLOR green][B] 1ª  Temporada [/B][/COLOR]</title>
+<title>[COLOR crimson][B] 1ª  Temporada [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:321117e7fc2c260d48ebb5fe4d9393aab8005a71</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOvsrnZCJV39MtOwheL0X5tUR5S.jpg</thumbnail>
+<fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
+<info>Cansada de fugir de assassinos do futuro e policiais do presente, Sarah Connor decide se preparar para lutar contra as máquina do futuro que tentam sumariamente eliminá-la assim como a proteger seu filho John, predestinado a salvar a raça humana. .</info>
+</item>
+
+<channels>
+</channels><channel>
+<name>[COLOR lime][B]2ª  Temporada[/B][/COLOR]</name>**********
+ 
+ 
+<item>
+<title>[COLOR crimson][B]temporada completa [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa465bf193bb3d8065929cad328ae55f2d5a7248</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOvsrnZCJV39MtOwheL0X5tUR5S.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
 <info>Cansada de fugir de assassinos do futuro e policiais do presente, Sarah Connor decide se preparar para lutar contra as máquina do futuro que tentam sumariamente eliminá-la assim como a proteger seu filho John, predestinado a salvar a raça humana. .</info>
