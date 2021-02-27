@@ -34,6 +34,12 @@
 </channel>
 
 </channels><channel>
+<name>[COLOR blue][B] Grey’s Anatomy [/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1HAm7sxXu9eGVvs8BIAlkCKGaTd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Virgin%20River</externallink>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/75wrJ4BbscUDZhcCxEf6eH2G0Th.jpg</fanart>
+</channel>
+</channels><channel>
 <name>[COLOR blue][B]Scandal [/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/4XUw85xCKBxTn7TCg5vFU1YdSbW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Scandal</externallink>
