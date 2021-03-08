@@ -43,7 +43,7 @@
 <channels
 <channel>
 <name>[COLOR orange][B]KIDS[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xVHPdZCWOJh9t4ozGscwsPl0RAA.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/kids</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
