@@ -83,7 +83,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B] SERIES[/B][/COLOR]</name>
-<thumbnail>https://www.apptuts.net/wp-content/uploads/2019/08/melhores-series-netflix-2019-capa.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/JP2daxM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20series</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
