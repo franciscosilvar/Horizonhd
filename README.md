@@ -7,7 +7,7 @@
 <info>FILMES NOVOS TODA SEMANA PARA PODER DESFRUTAR DO NOSSO CONTEUDO INSTALE O ELEMENTUM E PLUGIN YOUTUBE . .<info>
 
 
-[COLOR deeppink]|[/COLOR]  ADICIONE AQUI A DESCRIÇÃO  [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink] [/COLOR] ADICIONE AQUI A DESCRIÇÃO [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
