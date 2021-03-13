@@ -88,6 +88,7 @@
 <thumbnail>https://i.imgur.com/JP2daxM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20series</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
+<info></info>
 </channel>
 
 <channels>
@@ -96,4 +97,5 @@
 <thumbnail>https://i.imgur.com/EERTTH5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20animes</externallink>
 <fanart>https://nya-ani.me/wp-content/uploads/2017/12/One-Piece-East-Blue.jpg</fanart>
+<info>[COLOR blueviolet][B] OS MELHORES ANIMES ESTÃO AQUI, [/B][/COLOR]</info>
 </channel>
