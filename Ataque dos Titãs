@@ -35,11 +35,11 @@
 </item>
 
 <channel>
-<name>[COLOR lime][B] 4ª  Temporada[/B][/COLOR]</name>**********
+<name>[COLOR lime][B] 4ª Temporada[/B][/COLOR]</name>**********
 
 
 <item>
-<title>[COLOR gold][B]episodio 1 [/B][/COLOR]</title>
+<title>[COLOR gold][B]4ª Temporada episodio 1 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a62a9dff1524b304799e539df756c1f1a196ccd</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 2 e 3 [/B][/COLOR]</title>
+<title>[COLOR gold][B]4ª Temporada episodio 2 3 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:331b395fdcb868015fcfeb05bf35eead6a9eef3d</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 4 [/B][/COLOR]</title>
+<title>[COLOR gold][B]4ª Temporada episodio 4 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eaa9e6b09a7bb758246cf9407c9c58de27acdde</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 5 [/B][/COLOR]</title>
+<title>[COLOR gold][B] 4ª Temporada episodio 5 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri="magnet:?xt=urn:btih:49586d95616bfd03e2e4ed3d5ae514b8aa942495</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 6 [/B][/COLOR]</title>
+<title>[COLOR gold][B] 4ª Temporada episodio 6 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4706a577ca5165d8c0a28390b467447b4f40ea0</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 7 [/B][/COLOR]</title>
+<title>[COLOR gold][B] 4ª Temporada episodio 7 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d69fcf5f4819e09b9fb89ceab9f8e5a64b5131d</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 4 8 10 [/B][/COLOR]</title>
+<title>[COLOR gold][B] 4ª Temporada episodio 8 9 10 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7f8595549a488044894386897ee829cbf220ff2</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
@@ -95,13 +95,10 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]episodio 11 [/B][/COLOR]</title>
+<title>[COLOR gold][B] 4ª Temporada episodio 11 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7f8595549a488044894386897ee829cbf220ff2</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sokdGMjsY4JALWNix9OxGL6tHK2.jpg</thumbnail>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg/fanart>
 <info>Titãs estão quase exterminando a raça humana. Porém alguns estão dispostos a formar um exército de ataque aos seres assassinos. O jovem Eren, após ver sua mãe ser devorada por um titã, decide que não deixará nenhum deles vivo e buscará sua vingança completa. .</info>
 </item>
-
-<channel>
-<name>[COLOR lime][B] 4ª  Temporada[/B][/COLOR]</name>**********
 
