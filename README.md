@@ -26,7 +26,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]CLASSICOS[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/i3DZkm3.png</thumbnail>
+<thumbnail>https://i.imgur.com/56BATDn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/cl%C3%A1ssicos</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info>
