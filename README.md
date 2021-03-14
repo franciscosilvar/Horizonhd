@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR lime][B]*[COLOR orange] FILMES [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/zsEpe5C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/indice%20categorias%20filmes</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
