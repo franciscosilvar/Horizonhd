@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]*[COLOR orange] ESRIADOS [/B][/COLOR]</name>
+<name>[COLOR lime][B]*[COLOR orange]SERIADOS [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/GaEyyfs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/inidice%20seriados</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -62,14 +62,6 @@
 <name>[COLOR lime][B]*[COLOR orange] GOSPEL [/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-HcbhlNsrwW0/X_siSvCdsII/AAAAAAAAEDI/3TPnNS4v1cU704IRu8DNLScCGGio0l84QCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
-<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-</channel>
-
-<channels>
-<channel>
-<name>[COLOR lime][B]*[COLOR orange] CONTEUDO YOUTUBE [/B][/COLOR]</name>
-<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/01/youtube.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/youtube%20incide</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
 
