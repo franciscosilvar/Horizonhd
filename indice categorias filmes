@@ -12,7 +12,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR deeppink][B][I]LANÇAMENTOS 2021[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR deeppink][I]LANÇAMENTOS [/I][/COLOR][/COLOR][COLOR blue]2021 [B][/COLOR][/B]</name>
 <thumbnail>https://lh3.googleusercontent.com/-Qz3ZbvkJNr0/X_HpUJHp3KI/AAAAAAAAECM/nUskqmXeBNYgnvtxMkNTiA5NHnOrQRGFgCLcBGAsYHQ/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/2021</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -70,7 +70,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]DIVERSOS[/B][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<name>[COLOR gold][B][I]DIVERSOS[/B][/I][/COLOR][COLOR green][B][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/ki3uU4p.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20diversos</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -80,7 +80,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]ANIMAÇÕES[/B][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<name>[COLOR gold][B][I]ANIMAÇÕES[/B][/I][/COLOR][COLOR green][B][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/anima%C3%A7%C3%A3o%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -91,7 +91,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]COLEÇÕES[/B][/COLOR][COLOR green][B] [/B][/COLOR]</name>
+<name>[COLOR gold][B][I]COLEÇÕES[/B][/I][/COLOR][COLOR green][B] [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/cole%C3%A7%C3%A3o%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -101,7 +101,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]FAROESTE[/B][/COLOR]</name>
+<name>[COLOR gold][B][I]FAROESTE[/B][/I][/COLOR]</name>
 <thumbnail>https://2.bp.blogspot.com/-nDEIkQzOrzo/Xp47p-p6p-I/AAAAAAAADyk/FnCU34NfHEgHIaaKo8fVImf1jIofIlEugCK4BGAYYCw/s320/faroestejaneiro.png</thumbnail>
 <externallink></externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -111,7 +111,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR gold][B]OVAS, MANGÁS,ANIMES[/B][/COLOR]</name>
+<name>[COLOR gold][B][I]OVAS, MANGÁS,ANIMES[/B][/I][/COLOR]</name>
 <thumbnail>https://1.bp.blogspot.com/-0a50kxrFaek/Xp475OVoa6I/AAAAAAAADys/QyGoWJZ3ZUMJnjRqZNbSUC-4NqqR2SfmQCK4BGAYYCw/s320/MANGASOVAS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/ovas%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -121,7 +121,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B]Nacional[/B][/COLOR]</name>
+<name>[COLOR gold][B][I]Nacional[/B][/I][/COLOR]</name>
 <thumbnail>https://images.tcdn.com.br/img/img_prod/213069/bandeira_do_brasil_torcedor_128x90_cm_mitraud_9959_1_20190611200234.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Nacional</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -131,7 +131,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR gold][B] ANIMATION [/B][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<name>[COLOR gold][B][I]ANIMATION [/B][/I][/COLOR][COLOR green][B][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/ANIMES</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
