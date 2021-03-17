@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]*[COLOR orange]SERIADOS [/B][/COLOR]</name>
+<name>[COLOR lime][B]*[COLOR orange] SERIADOS [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/GaEyyfs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/inidice%20seriados</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
