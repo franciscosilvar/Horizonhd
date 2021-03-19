@@ -7,7 +7,7 @@
 <info>[COLOR blueviolet][B]FILMES NOVOS POR AQUI TALVEZ VOCE ENCROTRE O QUE VOCE GOSTA [/B][/COLOR]<info>
 
 
-<info>[COLOR blueviolet] [/COLOR] ADICIONE AQUI A DESCRIÇÃO [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
