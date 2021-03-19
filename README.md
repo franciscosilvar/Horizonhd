@@ -60,7 +60,7 @@
 <channels>
 <channel>
 <name>[COLOR lime][B]●[COLOR orange] GOSPEL [/B][/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/-HcbhlNsrwW0/X_siSvCdsII/AAAAAAAAEDI/3TPnNS4v1cU704IRu8DNLScCGGio0l84QCLcBGAsYHQ/image.png</thumbnail>
+<thumbnail>https://i.imgur.com/J32l7qb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
