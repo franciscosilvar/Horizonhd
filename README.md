@@ -5,7 +5,7 @@
 <externallink></externallink>
 <fanart>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</fanart>
 <info>[COLOR blueviolet][B]FILMES NOVOS POR AQUI TALVEZ VOCE ENCROTRE O QUE VOCE GOSTA [/B][/COLOR]<info>
-
+</channel>
 
 [COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -20,7 +20,7 @@
 <thumbnail>https://i.imgur.com/zsEpe5C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/indice%20categorias%20filmes</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-<info>
+<info>Vê Que Tem</info>
 </channel>
 
 <channels>
