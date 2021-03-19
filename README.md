@@ -7,6 +7,7 @@
 <info>[COLOR blueviolet][B]FILMES NOVOS POR AQUI TALVEZ VOCE ENCROTRE O QUE VOCE GOSTA [/B][/COLOR]<info>
 </channel>
 
+
 [COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -20,7 +21,7 @@
 <thumbnail>https://i.imgur.com/zsEpe5C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/indice%20categorias%20filmes</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-<info>Vê Que Tem</info>
+<info>[COLOR blueviolet][B]Vê Que Tem [/B][/COLOR]</info>
 </channel>
 
 <channels>
