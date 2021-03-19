@@ -61,7 +61,7 @@
 <channel>
 <name>[COLOR lime][B]●[COLOR orange] GOSPEL [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/J32l7qb.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/gospel%20link</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Gospel</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
 
