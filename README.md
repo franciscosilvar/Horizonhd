@@ -22,13 +22,12 @@
 <info>[COLOR blueviolet][B]Vê Que Tem [/B][/COLOR]</info>
 </channel>
 
-<channels>
+<channels
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] CLASSICOS [/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/56BATDn.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/cl%C3%A1ssicos</externallink>
+<name>[COLOR lime][B]●[COLOR orange] KIDS [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/kids</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-<info>
 </channel>
 
 <channels>
@@ -40,14 +39,6 @@
 <info></info>
 </channel>
  
-<channels
-<channel>
-<name>[COLOR lime][B]●[COLOR orange] KIDS [/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/kids</externallink>
-<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-</channel>
-
 <channels>
 <channel>
 <name>[COLOR lime][B]●[COLOR orange] SHOWS [/B][/COLOR]</name>
