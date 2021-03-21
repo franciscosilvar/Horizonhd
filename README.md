@@ -75,7 +75,7 @@
  
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange]CANAL RICOS[/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange] CANAL RICOS[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/S6kjSfi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/canal%20ricos%20link</externallink>
 <fanart>https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg</fanart>
