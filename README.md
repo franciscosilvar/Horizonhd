@@ -24,7 +24,7 @@
 
 <channels
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] KIDS [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/kids</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] SERIES [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] SERIES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JP2daxM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20series</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -41,7 +41,7 @@
  
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] SHOWS [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] SHOWS [/I][/B][/COLOR]</name>
 <thumbnail>https://lh3.googleusercontent.com/-J86NuX9nvyE/X_sja6mwPRI/AAAAAAAAEDo/5kLcm8SbCyUXZz9XmH1DdRNZqLlS7aYdgCLcBGAsYHQ/show-1280x720.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/shows</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -49,7 +49,7 @@
  
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] GOSPEL [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] GOSPEL [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/J32l7qb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Gospel</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -57,7 +57,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] COLEÇÃO [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] COLEÇÃO [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20cole%C3%A7%C3%A3o</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -66,7 +66,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] ANIMES [/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] ANIMES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/EERTTH5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20animes</externallink>
 <fanart>https://nya-ani.me/wp-content/uploads/2017/12/One-Piece-East-Blue.jpg</fanart>
@@ -75,7 +75,7 @@
  
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange] CANAL RICOS[/B][/COLOR]</name>
+<name>[COLOR lime][B]●[COLOR orange][I] CANAL RICOS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/S6kjSfi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/canal%20ricos%20link</externallink>
 <fanart>https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg</fanart>
