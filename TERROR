@@ -151,9 +151,10 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] Um Lugar Silencioso [COLOR blue] (2018) [/COLOR][/COLOR][COLOR crimson] 1080p [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<title>[COLOR lime][B][I] Um Lugar Silencioso [/I][COLOR blue] (2018) [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E29692853177FE9B9DD4DB3C047C13A94CCEF429&amp$nome=[COLOR blue][B] Um Lugar Silencioso [COLOR crimson] 720p [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3248A7C86C4F501DC8AC12126CEEE8249DD4240B&amp$nome=[COLOR blue][B] Um Lugar Silencioso [COLOR crimson] 1080p [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/roYyPiQDQKmIKUEhO912693tSja.jpg</fanart>
-<info>Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som. .</info>
+<info>[COLOR blueviolet][B][I] Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som [/I][/B][/COLOR]</info>
 </item>
