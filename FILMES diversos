@@ -228,14 +228,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][I] Locke [/I][COLOR blue] (2014) [/COLOR][/COLOR][COLOR crimson] 1080p [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22e0cadc5a19b748839864cf59feec576020e2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6JvhYA7VCq6IhBGkrkFkpYejN1o.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2fH5fNSfZIldTUrC5Tmem5OPHkQ.jpg</fanart>
-<info>[COLOR blueviolet][B][I]A vida do brilhante, Ivan Locke (Tom hardy), muda completamente quando recebe um telefonema ameaçando a segurança da sua família e sua carreira. Ele embarca em uma corrida contra o tempo, em que ele só tem 90 minutos[/I][/B][/COLOR]</info>
-</item>
-
-<item>
 <title>[COLOR lime][B] Evereste [COLOR blue] (2015) [/COLOR][/COLOR][COLOR crimson] 1080p [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D983E64E1E8AB462B99696B0F5FAF708E23E5D0&amp;dn=evereste+2015+720p+bluray+dual+dublado+lapumia&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&amp;tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yQ5HcyN9Rs1IyYX2y6WQOR6DnVZ.jpg</thumbnail>
@@ -384,4 +376,12 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/bBxHNF0risAugpPJeAgLkiUW0P1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5k3LdPahZNPu7ineIgzEOq9AHcX.jpg</fanart>
 <info>[COLOR blueviolet][B][I]Para acabar com um esquema mundial de tráfico humano, um agente da interpol recorre à ajuda de um violento criminoso que conhece os meandros da Yakuza[/I][/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] Locke [/I][COLOR blue] (2014) [/COLOR][/COLOR][COLOR crimson] 1080p [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22e0cadc5a19b748839864cf59feec576020e2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6JvhYA7VCq6IhBGkrkFkpYejN1o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2fH5fNSfZIldTUrC5Tmem5OPHkQ.jpg</fanart>
+<info>[COLOR blueviolet][B][I]A vida do brilhante, Ivan Locke (Tom hardy), muda completamente quando recebe um telefonema ameaçando a segurança da sua família e sua carreira. Ele embarca em uma corrida contra o tempo, em que ele só tem 90 minutos[/I][/B][/COLOR]</info>
 </item>
