@@ -2,9 +2,16 @@
 
 <channels>
 
+</channels><channel>
+<name>[COLOR blue][B][I] Resident Evil [/I][/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/uoXZOT9dGDtrZNgOSOOKOXlV4XT.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Cole%C3%A7%C3%A3o%20Millennium</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/8HkM0NWNHAM9D9Rmy8j8Z7nJFYM.jpg</fanart>
+<info>A bordo da USS Enterprise, a nave mais sofisticada já construída, uma tripulação de novatos embarca em sua viagem inaugural, que é atrapalhada por Nero</info>
+</channel>
 
 </channels><channel>
-<name>[COLOR blue][B] Millennium [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] Millennium [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/iHuXU437hWfEH0qasZVxsdfGkm6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Cole%C3%A7%C3%A3o%20Millennium</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/sDe3p83bcNaTjWdAnBgcNJJncLm.jpg</fanart>
@@ -12,7 +19,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B] Star Trek [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] Star Trek [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Cole%C3%A7%C3%A3o%20Star%20Trek</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg</fanart>
@@ -20,7 +27,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B] O Exterminador do Futuro [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] O Exterminador do Futuro [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/O%20Exterminador%20do%20Futuro</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
@@ -28,7 +35,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B] John Wick [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] John Wick [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/nCzzQKGijVzfGFg42id7uDLOjY5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Cole%C3%A7%C3%A3o%20John%20Wick</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg</fanart>
@@ -36,7 +43,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B] Duro de Matar [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] Duro de Matar [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/6VMqX6fnQZ7IkNfa6RJG2PSeOrc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Cole%C3%A7%C3%A3o%20Duro%20de%20Matar</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
@@ -44,7 +51,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B] Anjos da Noite [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] Anjos da Noite [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Cole%C3%A7ao%20Anjos%20da%20Noite</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
@@ -52,7 +59,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B] O Poderoso Chefão [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] O Poderoso Chefão [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Trilogia%20O%20Poderoso%20Chef%C3%A3o</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
