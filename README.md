@@ -41,18 +41,19 @@
  
 <channels>
 <channel>
-<name>[COLOR lime][B]●[COLOR orange][I] SHOWS [/I][/B][/COLOR]</name>
-<thumbnail>https://lh3.googleusercontent.com/-J86NuX9nvyE/X_sja6mwPRI/AAAAAAAAEDo/5kLcm8SbCyUXZz9XmH1DdRNZqLlS7aYdgCLcBGAsYHQ/show-1280x720.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/shows</externallink>
-<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-</channel>
- 
-<channels>
-<channel>
 <name>[COLOR lime][B]●[COLOR orange][I] GOSPEL [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/J32l7qb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Gospel</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[COLOR orange][I] CLASSICOS [/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/56BATDn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/cl%C3%A1ssicos</externallink>
+<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
+<info></info>
 </channel>
 
 <channels>
