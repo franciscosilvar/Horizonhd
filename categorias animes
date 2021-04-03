@@ -4,9 +4,17 @@
 
 
 </channels><channel>
-<name>[COLOR blue][B] Ataque dos Titãs [/B][/COLOR]</name>
+<name>[COLOR blue][B][I] Ataque dos Titãs [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WeqKgDveO6rDOckZ4iVYMLt3hW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Ataque%20dos%20Tit%C3%A3s</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
+<info></info>
+</channel>
+
+</channels><channel>
+<name>[COLOR blue][B][I] ThunderCats [/I][/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/egt8DMFDkGlgSZsh1aifKNv6raU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Ataque%20dos%20Tit%C3%A3s</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/4YCCydHXzmMl0MJaSnZyJhQcDLc.jpg</fanart>
 <info></info>
 </channel>
