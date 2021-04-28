@@ -26,7 +26,7 @@
 <channel>
 <name>[COLOR lime][B]●[COLOR crimson][I] DC [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/U51hS1x.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20Cole%C3%A7ao</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Filmes%20DC</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/e9WqVRSPXHQ2k5b62kYXaOW54ew.jpg</fanart>
 <info>
 </channel>
