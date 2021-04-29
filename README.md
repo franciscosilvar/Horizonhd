@@ -22,15 +22,6 @@
 <info>[COLOR blueviolet][B]Vê Que Tem [/B][/COLOR]</info>
 </channel>
 
-<channels>
-<channel>
-<name>[COLOR lime][B][I]●[/I][COLOR orange][I] FILME [/I][/COLOR][/COLOR][COLOR crimson][I] DC [/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/U51hS1x.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Filmes%20DC</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/e9WqVRSPXHQ2k5b62kYXaOW54ew.jpg</fanart>
-<info>
-</channel>
-
 <channels
 <channel>
 <name>[COLOR lime][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
