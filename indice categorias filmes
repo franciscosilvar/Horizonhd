@@ -37,29 +37,17 @@
 
 
 </channels><channel>
-<name>[COLOR blue][B][I]TOKUSATSU[/I][/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] TOKUSATSU [/I][/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Obpy9IEYSYqwwtw8P9t2qkTdkw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Tokusatsu</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
 
-
 <channels>
 
 </channels><channel>
-<name>[COLOR blue][B][I] CINEMA [/B][/I][/COLOR][COLOR green][B] [/B][/COLOR]</name>
-<thumbnail>https://1.bp.blogspot.com/-_9Lw3RHEivQ/Xo-hEMDoKUI/AAAAAAAADws/5mer7WrrfdAy2lZfK7E8xbyajotMO7nDgCLcBGAsYHQ/s320/cinema.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/cinema%20link</externallink>
-<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-<info>ATENÇÃO ESTA PASTA  CINEMA É DE FILMES EM HDCAM/LEGENDADOS PARA O PESSOAL QUE TEM PRESSA DE VER</info>
-</channel>
-
-
-<channels>
-
-</channels><channel>
-<name>[COLOR blue][B][I]DIVERSOS[/B][/I][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] DIVERSOS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/ki3uU4p.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20diversos</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -69,7 +57,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR blue][B][I]ANIMAÇÕES[/B][/I][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] ANIMAÇÕES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/anima%C3%A7%C3%A3o%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -80,7 +68,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR blue][B][I]COLEÇÕES[/B][/I][/COLOR][COLOR green][B] [/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] COLEÇÕES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/cole%C3%A7%C3%A3o%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -90,7 +78,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR blue][B][I]FAROESTE[/B][/I][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] FAROESTE [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/tpWCasR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Faroeste</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -100,7 +88,7 @@
 <channels>
  
 </channels><channel>
-<name>[COLOR blue][B][I]OVAS, MANGÁS,ANIMES[/B][/I][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] OVAS, MANGÁS,ANIMES [/I][/B][/COLOR]</name>
 <thumbnail>https://1.bp.blogspot.com/-0a50kxrFaek/Xp475OVoa6I/AAAAAAAADys/QyGoWJZ3ZUMJnjRqZNbSUC-4NqqR2SfmQCK4BGAYYCw/s320/MANGASOVAS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/ovas%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -110,7 +98,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR blue][B][I]Nacional[/B][/I][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] Nacional [/I][/B][/COLOR]</name>
 <thumbnail>https://images.tcdn.com.br/img/img_prod/213069/bandeira_do_brasil_torcedor_128x90_cm_mitraud_9959_1_20190611200234.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Nacional</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
@@ -120,7 +108,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR blue][B][I]ANIMATION [/B][/I][/COLOR][COLOR green][B][/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] ANIMATION [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/ANIMES</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
