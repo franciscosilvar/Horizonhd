@@ -30,14 +30,6 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR blue][B][I] Expresso do Amanhã [/I][/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Expresso%20do%20Amanh%C3%A3</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/x76l3veGEqAgoAqMHW4BfWDYbi3.jpg</fanart>
-<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][B][/COLOR][/B]</info>
-</channel>
-
-</channels><channel>
 <name>[COLOR blue][B][I] Jornada nas Estrelas Picard [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bxeUU8mLy00gDQ2pegxDMRxBA8i.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Jornada%20nas%20Estrelas%20Picard</externallink>
@@ -51,6 +43,22 @@
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/WandaVision</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
 <info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR white][I] Disney+ [/I][B][/COLOR][/B]</info>
+</channel>
+
+</channels><channel>
+<name>[COLOR blue][B][I] The Mandalorian [/I][/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/rfNgiR1ovVM4RBXPgCru5UXLsOY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/The%20Mandalorian</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/p7fwOnlxYYlB4A8U2b0JfX21Rr1.jpg</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR white][I] Disney+ [/I][B][/COLOR][/B]</info>
+</channel>
+
+</channels><channel>
+<name>[COLOR blue][B][I] Expresso do Amanhã [/I][/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Expresso%20do%20Amanh%C3%A3</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/x76l3veGEqAgoAqMHW4BfWDYbi3.jpg</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][B][/COLOR][/B]</info>
 </channel>
 
 </channels><channel>
@@ -74,6 +82,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/All%20American</externallink>
 <fanart>https://i.imgur.com/DPkl0Sk.jpg</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][B][/COLOR][/B]</info>
 </channel>
 
 </channels><channel>
@@ -130,14 +139,6 @@
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Riverdale%20-%201%C2%AA%20Temporada</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9hvhGtcsGhQY58pukw8w55UEUbL.jpg</fanart>
 <info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][B][/COLOR][/B]</info>
-</channel>
-
-</channels><channel>
-<name>[COLOR blue][B][I] The Mandalorian [/I][/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/rfNgiR1ovVM4RBXPgCru5UXLsOY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/The%20Mandalorian</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/p7fwOnlxYYlB4A8U2b0JfX21Rr1.jpg</fanart>
-<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR white][I] Disney+ [/I][B][/COLOR][/B]</info>
 </channel>
 
 </channels><channel>
