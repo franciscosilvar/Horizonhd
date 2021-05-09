@@ -150,6 +150,14 @@
 </channel>
 
 </channels><channel>
+<name>[COLOR blue][B][I] Stranger Things [/I][/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/75zl1F4ACQXa5XYXzQaV9nWUeIh.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Serie%20Stranger%20Things</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][B][/COLOR][/B]</info>
+</channel>
+
+</channels><channel>
 <name>[COLOR blue][B][I] Game of Thrones [/I][/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qE9Acg2kt641lEpkJ4AUC7u5MJM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Game%20of%20Thrones</externallink>
