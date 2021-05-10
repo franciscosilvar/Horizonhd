@@ -1,6 +1,7 @@
 <item>
-<title>[COLOR lime][B] teste[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/wOe0BI9R35Q&list=RDqhrwrL0ViEI&index=0/?page=0</jsonrpc>
+<title>[B]título da playlist[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/watch?v=wOe0BI9R35Q&list=RDqhrwrL0ViEI&index=0/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
 <fanart>https://i.imgur.com/urXmGts.jpg</fanart>
 <info></info>
