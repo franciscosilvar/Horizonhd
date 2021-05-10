@@ -1,7 +1,7 @@
 <item>
-<title>[B]título da playlist[/COLOR] [/B]</title>
+<title>[COLOR lime][B]título da playlist[/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/watch?v=wOe0BI9R35Q&list=RDqhrwrL0ViEI&index=0/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/wOe0BI9R35Q&list=RDqhrwrL0ViEI&index=0/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
 <fanart>https://i.imgur.com/urXmGts.jpg</fanart>
 <info></info>
