@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime][B]teste[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/DGW7u_Rx-Rw&list/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/watch?v=DGW7u_Rx-Rw&list=RDqhrwrL0ViEI&index/?page=0</jsonrpc>
 <thumbnail>https://s04.video.glbimg.com/x720/8314403.jpg</thumbnail>
 <fanart>https://s04.video.glbimg.com/x720/8314403.jpg</fanart>
 <info></info>
