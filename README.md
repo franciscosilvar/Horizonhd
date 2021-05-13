@@ -74,6 +74,15 @@
 <info>[COLOR blueviolet][B] OS MELHORES ANIMES ESTÃO AQUI, [/B][/COLOR]</info>
 </channel>
  
+ <channels>
+<channel>
+<name>[COLOR lime][B]●[COLOR orange][I] YOUTUBE [/I][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20Cole%C3%A7ao</externallink>
+<fanart>https://i.imgur.com/urXmGts.jpg</fanart>
+<info>[COLOR blueviolet][B] OS MELHORES DO YOUTUBE ESTÃO AQUI, [/B][/COLOR]</info>
+</channel>
+ 
 <channels>
 <channel>
 <name>[COLOR lime][B]●[COLOR orange][I] CANAL RICOS [/I][/B][/COLOR]</name>
