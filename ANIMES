@@ -7,14 +7,6 @@
 </item>
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>https://streamtape.com/v/XgVdbR0lXxTWlk/DJ_Guuga_e_DJ_Ivis_-_Volta_Beb%C3%AA%2C_Volta_Nen%C3%A9m.mp4</link>
-<thumbnail>https://images.suamusica.com.br/MJevC1sCSl3e4-n6cFITzUOFQ7g=/500x500/filters:format(jpg)/27651379/3195872/cd_cover.jpeg</thumbnail>
-<fanart>https://i.ytimg.com/vi/x0EPgyNd9o0/maxresdefault.jpg</fanart>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
 <title>[COLOR lime][B]título da playlist[/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL4fGSI1pDJn7rGBE8kEC0CqTa1nMh9AKB/?page=0</jsonrpc>
