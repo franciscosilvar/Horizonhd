@@ -37,3 +37,12 @@
 <fanart>https://www.bismaxongravacoes.com.br/wp-content/uploads/2017/06/Agenda-Henrique-e-Juliano.jpg</fanart>
 <info>[COLOR blue][B][I] Amazon Prime [/I][COLOR orange][I]  >>> [/I][COLOR blueviolet][I] Sinopse [/I][B][/COLOR][/B]</info>
 </item>
+
+<item>
+<title>[COLOR lime][B] playlist youtube [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4fGSI1pDJn7rGBE8kEC0CqTa1nMh9AKB/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
+<fanart>https://i.imgur.com/urXmGts.jpg</fanart>
+<info></info>
+</item>
