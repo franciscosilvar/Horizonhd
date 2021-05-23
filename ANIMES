@@ -15,15 +15,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]título da playlist[/COLOR] [/B]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4fGSI1pDJn7rGBE8kEC0CqTa1nMh9AKB/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
-<fanart>https://i.imgur.com/urXmGts.jpg</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR lime][B][I] Viva - A Vida é uma Festa [/I][COLOR blue] (2017) [/COLOR][/COLOR][COLOR crimson] 720p [B][/COLOR][/B]</title>
 <link>https://archive.org/download/viva-a-vida-e-uma-festa-2018-720p-dub/Viva%20-%20A%20Vida%20%C3%A9%20uma%20Festa%202018%20720p%20DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
