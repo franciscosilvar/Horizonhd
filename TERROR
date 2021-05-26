@@ -1,4 +1,14 @@
 <item>
+<title>[COLOR lime][B][I] A Cura [/I][COLOR blue] (2016) [COLOR crimson] 1080p [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D7F0138AAB6290B99F570BDFFD3AF8B84E82A56&dn$nome=[COLOR crimson][B]720p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8BE7818728058019CADC968DF694264203A07975&dn$nome=[COLOR crimson][B]1080p [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR crimson][B]4K [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/74zbyYwOncUJcLhFXYKsKDvaE3a.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dSP9g7aw6lvODTv2kLuHlv7EQq9.jpg</fanart>
+<info>[COLOR blue][I] >>> Amazon Prime <<< [/I][COLOR blueviolet][I] Sinopse Enviado para buscar o CEO da sua empresa em um spa europeu distante, um ingênuo funcionário descobre terríveis segredos no lugar [/I][COLOR orange][I] Gêneros  [/I][COLOR white][I] Terror Mistério Ficção científica [/I][COLOR crimson][I] 2h 26m [/I][B][/COLOR][/B]</info>
+</item>
+
+<item>
 <title>[COLOR lime][B][I] Vírus [/I][COLOR blue] (2009) [/COLOR][/COLOR][COLOR crimson] 720p [B][/COLOR][/B]</title>
 <link>https://archive.org/download/virus-2009-720-p-dub/V%C3%ADrus%20%282009%29%20720P%20DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sXwshSzVsMvpJpGxvuPGsRxGzpV.jpg</thumbnail>
