@@ -113,13 +113,13 @@
 <info>[COLOR orange] >>> [COLOR crimson][B][I] GLOBOPLAY [COLOR orange] <<< [/I][COLOR blueviolet][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
 
-<item>
-<title>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][COLOR crimson] NETFLIX [/B][/COLOR]</title>
+</channels><channel>
+<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][COLOR crimson] NETFLIX [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/RtHQGNw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20NETFLIX</externallink>
 <fanart>https://i.imgur.com/jRWdQe3.jpg</fanart>
 <info>[COLOR orange][B] >>> [COLOR crimson][B][I] NETFLIX [COLOR orange][B] <<< [COLOR orange][I] Melhores conteúdos da [COLOR crimson] Netflix [B][/COLOR][/B]</info>
-</item>
+</channel>
 
 <channels>
 
