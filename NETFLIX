@@ -1,5 +1,13 @@
 <item>
-<title>[COLOR crimson][B]●[COLOR blue][I] Serie [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][/B][/COLOR]</title>
+<title>[COLOR crimson][B]●[COLOR blue][I] FILME [/I][COLOR crimson] NETFLIX [/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/RtHQGNw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20NETFLIX</externallink>
+<fanart>https://i.imgur.com/jRWdQe3.jpg</fanart>
+<info>[COLOR orange][B] >>> [COLOR crimson][B][I] NETFLIX [COLOR orange][B] <<< [COLOR orange][I] Melhores conteúdos da [COLOR crimson] Netflix [B][/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[COLOR crimson][B]●[COLOR blue][I] SERIE [/I][/COLOR][/COLOR][COLOR crimson] NETFLIX [/B][/COLOR]</title>
 <thumbnail>https://archive.org/download/ffff_20210611/ffff.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Serie%20NETFLIX</externallink>
 <fanart>https://archive.org/download/ffff_20210611/ttttttt.jpg</fanart>
