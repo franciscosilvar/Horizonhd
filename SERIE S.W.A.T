@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B][I] S.W.A.T [/I][COLOR blue] 2ª [COLOR blue][I] (2017) [/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I] S.W.A.T [/I][COLOR blue] 2ª [COLOR blue][I] (2019) [/I][/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:517f81c1c1330a72d3c4ed3cef1b8e50e86ede25&&dn$nome=[COLOR blue][B]1° 6° Episodio[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46179164fc6acaa31b52d04d35e029ccc6462969&&dn$nome=[COLOR blue][B]7° 12° Episodio[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e120aecae0728a0415aa63c32d8358c31dd272a&&dn$nome=[COLOR blue][B]13° 18° Episodio[/B][/COLOR]</link>
