@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR blue][B][I] FILMES [/I][COLOR white] Prime Video [/B][/COLOR]</title>
+<title>[COLOR blue][B] FILMES [COLOR white] Prime Video [/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/dPYWOAn.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://i.imgur.com/xFie8du.png</fanart>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B][I] SERIE [/I][COLOR white] Prime Video [/B][/COLOR]</title>
+<title>[COLOR blue][B] SERIE [COLOR white] Prime Video [/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/dPYWOAn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIE%20Prime%20Video</externallink>
 <fanart>https://i.imgur.com/xFie8du.png</fanart>
