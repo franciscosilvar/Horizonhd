@@ -63,6 +63,15 @@
 </channel>
 
 </channels><channel>
+<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][/COLOR][/COLOR][COLOR white] HBO Max [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/globoplay</externallink>
+<fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
+<info>[COLOR orange] >>> [COLOR crimson][B][I] GLOBOPLAY [COLOR orange] <<< [/I][COLOR blueviolet][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
+</channel>
+
+
+</channels><channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] TERROR [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/qZzGmQ0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/TERROR</externallink>
