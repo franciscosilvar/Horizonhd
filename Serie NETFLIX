@@ -126,3 +126,10 @@
 <info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][B][/COLOR][/B]</info>
 </item>
 
+<item>
+<title>[COLOR lime][B][I] 3% [/I][COLOR blue] (2016)[B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c5199ff5cd3016a65be63c20393a09a9bcf89ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3tHvsHcjoqhoWg9nAUv3PtZ6jv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oYXF6WC3JRm9GwvD4mq43Gq95pi.jpg</fanart>
+<info>[COLOR crimson][B][I] >>> globoplay <<< [/I][COLOR blueviolet][I] Sinopse [COLOR blue][I] Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados [/I][COLOR orange][I] Gêneros  [/I][COLOR white][I] >>>  Drama <<< [/I][COLOR crimson][I] 45m [/I][COLOR blue][I]★★★★★★★★★★★★[/I][B][/COLOR][/B]</info>
+</item>
