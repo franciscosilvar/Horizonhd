@@ -26,7 +26,7 @@
 <channel>
 <name>[COLOR crimson][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/kids</externallink>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/KIDS</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 </channel>
 
