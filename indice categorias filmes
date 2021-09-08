@@ -23,7 +23,7 @@
 <channels>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][/COLOR][/COLOR][COLOR crimson] GLOBOPLAY [/B][/COLOR]</name>
+<name>[COLOR blue][B]●[COLOR crimson] GLOBOPLAY [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/rAeqw7O.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/globoplay</externallink>
 <fanart>https://i.imgur.com/cQAUC48.jpg</fanart>
@@ -31,7 +31,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][COLOR crimson] NETFLIX [/B][/COLOR]</name>
+<name>[COLOR blue][B]●[COLOR crimson] NETFLIX [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/p0TTwCb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/NETFLIX</externallink>
 <fanart>https://i.imgur.com/Ya0LNFK.png</fanart>
@@ -39,7 +39,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][B][I] CONTEUDO [/I][COLOR white] Prime Video [/B][/COLOR]</name>
+<name>[COLOR blue][B]●[COLOR white] Prime Video [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dPYWOAn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Prime%20Video</externallink>
 <fanart>https://i.imgur.com/Ft3oL6d.jpg</fanart>
@@ -47,7 +47,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][/COLOR][/COLOR][COLOR white] Disney+ [/B][/COLOR]</name>
+<name>[COLOR blue][B]●[COLOR white] Disney+ [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/F7sdoJU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Disney%2B</externallink>
 <fanart>https://i.imgur.com/kcn69jq.jpg</fanart>
@@ -55,7 +55,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][/COLOR][/COLOR][COLOR white] HBO Max [/B][/COLOR]</name>
+<name>[COLOR blue][B]●[COLOR white] HBO Max [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/HBO%20Max</externallink>
 <fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
@@ -63,7 +63,7 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] CONTEUDO [/I][COLOR white] TELE[COLOR crimson] CINE [/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR white] TELE[COLOR crimson] CINE [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/vmEzHPY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20TELE%20CINE</externallink>
 <fanart>https://i.imgur.com/qTQItur.jpg</fanart>
