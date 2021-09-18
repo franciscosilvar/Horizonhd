@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR blue][B][I] Dinastia [/I][COLOR orange] 1° [COLOR blue] (2021)[B][/COLOR][/B]</title>
+<title>[COLOR blue][B][I] Dinastia [/I][COLOR orange] 1° [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C86A5B3A578B204969D36B5FC916CFB8D747C97&dn</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5ESns6ZCwguOaAEoNJw6I4iVK1w.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1EnLTNqvsjgnXnb8YlkKTQjXGWj.jpg</fanart>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B][I] Dinastia [/I][COLOR orange] 2° [COLOR blue] (2021)[B][/COLOR][/B]</title>
+<title>[COLOR blue][B][I] Dinastia [/I][COLOR orange] 2° [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:969c4ed4a7313cdd23cc9f2a4740863413cc5095&dn$nome=[COLOR blue][B]Dinastia [COLOR orange]  Episodio 1° [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60efc1a599256624f9de4b7cc85dd05ca066b88a&dn$nome=[COLOR blue][B] Dinastia [COLOR orange] Episodio 2° [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7a4cdf305f2be7e4ef7c5bb845192dc3cac892e&dn$nome=[COLOR blue][B] Dinastia [COLOR orange] Episodio 3° [/B][/COLOR]</link>
