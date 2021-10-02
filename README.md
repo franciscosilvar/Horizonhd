@@ -24,7 +24,7 @@
 
 <channels
 <channel>
-<name>[COLOR crimson][B]●[COLOR orange][I] KIDS [/I][/B][/COLOR]</name>
+<name>[COLOR crimson][B]■[COLOR orange]|[COLOR blue][I] KIDS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/KIDS</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
