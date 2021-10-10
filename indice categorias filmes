@@ -87,14 +87,6 @@
 </channel>
 
 
-</channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] TOKUSATSU [/I][/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Obpy9IEYSYqwwtw8P9t2qkTdkw.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/Tokusatsu</externallink>
-<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-<info></info>
-</channel>
-
 <channels>
 
 </channels><channel>
@@ -122,16 +114,6 @@
 <name>[COLOR crimson][B]●[COLOR blue][I] FAROESTE [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/tpWCasR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Faroeste</externallink>
-<fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
-<info></info>
-</channel>
-
-<channels>
- 
-</channels><channel>
-<name>[COLOR crimson][B]●[COLOR blue][I] MANGÁS,ANIMES [/I][/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/1TdeJsE.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/ovas%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
