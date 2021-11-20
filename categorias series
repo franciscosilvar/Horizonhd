@@ -11,6 +11,15 @@
 
 
 </channels><channel>
+<name>[COLOR crimson][B] GLOBOPLAY [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/rAeqw7O.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIE%20GLOBOPLAY</externallink>
+<fanart>https://i.imgur.com/cQAUC48.jpg</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR crimson][I] GLOBOPLAY [/I][B][/COLOR][/B]</info>
+</channel>
+
+
+</channels><channel>
 <name>[COLOR blue][B][I] A Bela e a Fera [/I][/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/2txA9rY337nNmir5ZBIe2RNj7TF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Serie%20A%20Bela%20e%20a%20Fera</externallink>
