@@ -29,7 +29,7 @@
 <thumbnail>https://i.imgur.com/JP2daxM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20series</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
-<info></info>
+<info>[COLOR blueviolet][B] As melhores séries preferidas assistir veja e reveja online quando e onde quiser pelo kodi[/B][/COLOR]</info>
 </channel>
  
 <channels
