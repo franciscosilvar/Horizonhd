@@ -73,23 +73,5 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info>[COLOR blueviolet][B] OS MELHORES ANIMES ESTÃO AQUI, [/B][/COLOR]</info>
 </channel>
- 
- <channels>
-<channel>
-<name>[COLOR crimson][B]♦.:[COLOR blue][I] YOUTUBE [/I][COLOR crimson][B]♦.:[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/FHRsAcD.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/YOUTUBE</externallink>
-<fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
-<info>[COLOR blueviolet][B] OS MELHORES DO YOUTUBE ESTÃO AQUI, [/B][/COLOR]</info>
-</channel>
- 
-<channels>
-<channel>
-<name>[COLOR crimson][B]♦.:[COLOR blue][I] CANAL RICOS [/I][COLOR crimson][B]♦.:[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/S6kjSfi.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/CANAL%20RICOS</externallink>
-<fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
-<info>PARTICIPE VIA FACEBOOK CANAL RICOS WEB<info>
-<info>
-</channel>
+
 
