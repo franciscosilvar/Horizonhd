@@ -1,5 +1,14 @@
-
 <channels>
+
+
+</channels><channel>
+<name>[COLOR white] HBO Max [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIE%20HBO%20Max</externallink>
+<fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR white] HBO Max [B][/COLOR][/B]</info>
+</channel>
+
 
 </channels><channel>
 <name>[COLOR blue][B][I] A Bela e a Fera [/I][/B][/COLOR]</name>
