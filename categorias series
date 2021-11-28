@@ -29,6 +29,16 @@
 
 
 </channels><channel>
+<name>[COLOR crimson][B] NETFLIX [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/p0TTwCb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Serie%20NETFLIX</externallink>
+<fanart>https://i.imgur.com/Ya0LNFK.png</fanart>
+<info>[COLOR blue][B][I] SERIE [/I][COLOR orange][I] <<< >>> [/I][/COLOR][/COLOR][COLOR crimson][I] NETFLIX [/I][COLOR blueviolet][I] As melhores séries você encontra aqui [/I][/COLOR][/B]</info>
+</channel>
+
+
+
+</channels><channel>
 <name>[COLOR blue][B] Prime [COLOR white] Video [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Ywrguti.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIE%20Prime%20Video</externallink>
