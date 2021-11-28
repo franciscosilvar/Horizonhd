@@ -31,8 +31,11 @@
 <info>[COLOR orange][B] > [COLOR crimson] > [COLOR blue] > [COLOR blue][I] Amazon Prime [/I][COLOR blue][B] < [COLOR crimson] < [COLOR orange] < [COLOR blue][I] Duzentos anos no futuro, um detetive interespacial, o capitão de uma nave e uma diplomata antiguerra cruzam seus caminhos após uma jovem desaparecer misteriosamente [/I][COLOR orange][I] Gêneros  [/I][COLOR white][I] Drama Mistério [/I][COLOR crimson][I] 43m [/I][B][/COLOR][/B]</info>
 </item>
 
+</channels><channel>
+<name>[COLOR lime][B] 1ª  Temporada [/B][/COLOR]</name>**********
+
 <item>
-<title>[COLOR blue][B] episodio [COLOR lime]1  2 [/B][/COLOR]</title>
+<title>[COLOR blue][B] episodio [COLOR lime] 1 2 3 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdbcecdd2f8d3ce667d8c57003ab72c2a7ee8d0d&dn</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fYX29Hf2effFV4bOhhiKMkKNRUG.jpg</fanart>
