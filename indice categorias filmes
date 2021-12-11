@@ -19,8 +19,14 @@
 <info></info>
 </channel>
 
+</channels><channel>
+<name>[COLOR crimson][B]●[COLOR white] Disney+ [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/F7sdoJU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Disney%2B</externallink>
+<fanart>https://i.imgur.com/kcn69jq.jpg</fanart>
+<info>[COLOR orange][B][I] ♦> > > [/I][COLOR white][B][I] Disney+ [/I][COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
+</channel>
 
-<channels>
 
 </channels><channel>
 <name>[COLOR blue][B]●[COLOR crimson] GLOBOPLAY [/B][/COLOR]</name>
@@ -29,6 +35,16 @@
 <fanart>https://i.imgur.com/cQAUC48.jpg</fanart>
 <info>[COLOR crimson][B] > [COLOR blue] > [COLOR orange] > [COLOR crimson] GLOBOPLAY [COLOR orange] [COLOR orange][B] < [COLOR blue] < [COLOR crimson] < [COLOR blueviolet][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
+
+</channels><channel>
+<name>[COLOR crimson][B]●[COLOR white] HBO Max [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/HBO%20Max</externallink>
+<fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
+<info>[COLOR orange][B][I] ♦> > > [/I][COLOR white][B] >>>> HBO Max <<<< [COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
+</channel>
+
+<channels>
 
 </channels><channel>
 <name>[COLOR blue][B]●[COLOR crimson] NETFLIX [/B][/COLOR]</name>
@@ -47,19 +63,11 @@
 </channel>
 
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR white] Disney+ [/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/F7sdoJU.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Disney%2B</externallink>
-<fanart>https://i.imgur.com/kcn69jq.jpg</fanart>
-<info>[COLOR orange][B][I] ♦> > > [/I][COLOR white][B][I] Disney+ [/I][COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
-</channel>
-
-</channels><channel>
-<name>[COLOR crimson][B]●[COLOR white] HBO Max [/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/HBO%20Max</externallink>
-<fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
-<info>[COLOR orange][B][I] ♦> > > [/I][COLOR white][B] >>>> HBO Max <<<< [COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
+<name>[COLOR crimson][B]●[COLOR white] STA[COLOR orange]★[COLOR white]R+ [/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/STjInLj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/STA%E2%98%85R%2B</externallink>
+<fanart>https://i.imgur.com/Ki2OrcQ.jpg</fanart>
+<info>[COLOR orange][B][I] ♦ > > >  [/I][COLOR white] STA[COLOR orange]★[COLOR white]R+ [COLOR orange][I]  < < < ♦ [/I][COLOR blue][I][I] os melhores filmes e serie estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
 
 </channels><channel>
@@ -70,13 +78,6 @@
 <info>[COLOR orange][B][I] ♦> > > [/I][COLOR white] TELE [COLOR crimson] CINE [COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes  estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
 
-</channels><channel>
-<name>[COLOR crimson][B]●[COLOR white] STA[COLOR orange]★[COLOR white]R+ [/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/STjInLj.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/STA%E2%98%85R%2B</externallink>
-<fanart>https://i.imgur.com/Ki2OrcQ.jpg</fanart>
-<info>[COLOR orange][B][I] ♦ > > >  [/I][COLOR white] STA[COLOR orange]★[COLOR white]R+ [COLOR orange][I]  < < < ♦ [/I][COLOR blue][I][I] os melhores filmes e serie estão a aqui  [/I][/B][/COLOR]</info>
-</channel>
 
 </channels><channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] TERROR [/I][/B][/COLOR]</name>
