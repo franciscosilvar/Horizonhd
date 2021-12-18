@@ -19,8 +19,17 @@
 <info></info>
 </channel>
 
+
 </channels><channel>
-<name>[COLOR crimson][B]●[COLOR white] Disney+ [/B][/COLOR]</name>
+<name>[COLOR crimson][B]●[COLOR blue][I] FILME [/I][COLOR white][B] Apple TV [COLOR blue]+[B][/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/LKeT3uJ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20Apple%20TV%2B</externallink>
+<fanart>https://i.imgur.com/Kd7n4KX.jpg</fanart>
+<info>[COLOR white][B][I] [COLOR white][B] Apple TV[COLOR blue]+ [/I][COLOR blueviolet][I] os melhores filmes estão a aqui [/I][B][/COLOR][/B]</info>
+</channel>
+
+</channels><channel>
+<name>[COLOR crimson][B]●[COLOR white] Disney[COLOR blue] + [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/F7sdoJU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Disney%2B</externallink>
 <fanart>https://i.imgur.com/kcn69jq.jpg</fanart>
