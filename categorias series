@@ -2,6 +2,15 @@
 
 
 </channels><channel>
+<name>[COLOR white][B] Apple TV[COLOR blue] +[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/LKeT3uJ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIE%20Apple%20TV</externallink>
+<fanart>https://i.imgur.com/Kd7n4KX.jpg</fanart>
+<info>[COLOR white][B][I] [COLOR white][B] Apple TV[COLOR blue]+ [/I][COLOR blueviolet][I] os melhores filmes estão a aqui [/I][B][/COLOR][/B]</info>
+</channel>
+
+
+</channels><channel>
 <name>[COLOR white][B] Disney+ [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/ZAjmxwQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/SERIE%20Disney%2B</externallink>
