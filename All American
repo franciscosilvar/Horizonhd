@@ -1,4 +1,12 @@
 <item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CjIXi4GfxkggO_3RvfVxbSvhwNgFXHCK/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
 <title>[COLOR lime][B][I] 1ª Temporada [/I][COLOR blue] (2018) [/B][/COLOR]</title>
 <link>https://archive.org/download/all.-american.-2018.-s-01-e-10.1080p.-dual/All%20American%20%201%C2%AA%20Temporada/All.American.2018.S01E01.1080p.DUAL.mkv$nome=[COLOR blue][B] 1° Episodio [COLOR crimson] 720p [/B][/COLOR]</link>
 <link>https://archive.org/download/all.-american.-2018.-s-01-e-10.1080p.-dual/All%20American%20%201%C2%AA%20Temporada/All.American.2018.S01E02.1080p.DUAL.mkv$nome=[COLOR blue][B] 2° Episodio [COLOR crimson] 720p [/B][/COLOR]</link>
@@ -16,7 +24,6 @@
 <link>https://archive.org/download/all.-american.-2018.-s-01-e-10.1080p.-dual/All%20American%20%201%C2%AA%20Temporada/All.American.2018.S01E14.1080p.Dua.mkv$nome=[COLOR blue][B] 14° Episodio [COLOR crimson] 720p [/B][/COLOR]</link>
 <link>https://archive.org/download/all.-american.-2018.-s-01-e-10.1080p.-dual/All%20American%20%201%C2%AA%20Temporada/All.American.2018.S01E15.1080p.Dual.mkv$nome=[COLOR blue][B] 15° Episodio [COLOR crimson] 720p [/B][/COLOR]</link>
 <link>https://archive.org/download/all.-american.-2018.-s-01-e-10.1080p.-dual/All%20American%20%201%C2%AA%20Temporada/All.American.2018.S01E16.1080p.Dua.mkv$nome=[COLOR blue][B] 16° Episodio [COLOR crimson] 720p [/B][/COLOR]</link>
-<link>https://drive.google.com/file/d/1CjIXi4GfxkggO_3RvfVxbSvhwNgFXHCK/view$nome=[COLOR blue] Fundação [COLOR orange][B] 11° [COLOR blue] Episodio [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/x3EjUSueM8w3aND3DSYDYQCryrc.jpg</fanart>
 <info>[COLOR crimson][B][I] NETFLIX [/I][COLOR orange][I]  >>> [/I][/COLOR][/COLOR][COLOR blueviolet][I]Dois mundos colidem quando um jogador de futebol de Compton é recrutado para um colégio em Beverly Hills[/I][/B][/COLOR]</info>
