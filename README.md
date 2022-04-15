@@ -1,8 +1,8 @@
 <channels>
 <channel>
 <name>[COLOR blueviolet][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
-<thumbnail>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</thumbnail>
-<fanart>https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/22174/773ff78108ef3940042a28a37ca5e33a28a8bdcc.png?1565896878</fanart>
+<thumbnail>https://i.imgur.com/hQFt6s0.jpg</thumbnail>
+<fanart>https://i.imgur.com/hQFt6s0.jpg</fanart>
 <info>[COLOR aquamarine][B]FILMES NOVOS POR AQUI TALVEZ VOCE ENCROTRE O QUE VOCE GOSTA [/B][/COLOR]</info>
 
 
