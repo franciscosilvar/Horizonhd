@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR blueviolet][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
 <thumbnail>https://i.imgur.com/hQFt6s0.jpg</thumbnail>
-<fanart>https://i.imgur.com/hQFt6s0.jpg</fanart>
+<fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info>[COLOR aquamarine][B]FILMES NOVOS POR AQUI TALVEZ VOCE ENCROTRE O QUE VOCE GOSTA [/B][/COLOR]</info>
 
 
