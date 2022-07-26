@@ -42,7 +42,8 @@
 
 <item>
 <title>[COLOR blue][B][I] Suits[/I][COLOR crimson] | ♦.:[COLOR orange][I] 4° [/I][/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94DC25D5E1E9E2E0189E6200C8B83A0521B2FA48&amp;dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94DC25D5E1E9E2E0189E6200C8B83A0521B2FA48&amp;dn$nome=[COLOR blue][I] Suits [/I][COLOR orange][B] 1° [COLOR blue] Episodio [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94DC25D5E1E9E2E0189E6200C8B83A0521B2FA48&dn$nome=[COLOR blue][I] Suits [/I][COLOR orange][B] 2° [COLOR blue] Episodio [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b5hAB0WTyg5Tmf9deOrkbspJJCJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xNn4dglWWFVfhmkN4MfDMWJYDrC.jpg</fanart>
 <info>[COLOR orange][B][I] ♦ > > > [/I][COLOR crimson] NETFLIX [COLOR orange][I] < < < ♦ [/I]
