@@ -34,7 +34,8 @@
 
 <item>
 <title>[COLOR blue][B][I] See [/I][COLOR orange][I] 3° [/I][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BH37J6IJCVFVRW7N4MSSWOYWM7RBIA4B&#038;dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BH37J6IJCVFVRW7N4MSSWOYWM7RBIA4B&#038;dn$nome=[COLOR blue] See [COLOR orange][B] 1° [COLOR blue] Episodio [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MCM7RIUUXB2INAJWZ2NPKS4NNIHPKYGG&#038;dn$nome=[COLOR blue] See [COLOR orange][B] 2° [COLOR blue] Episodio [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wNKwOtq27yfN13SKKV07NwkpBA3.jpg</fanart>
 <info>[COLOR orange][B][I] ♦ > > > [/I][COLOR white][B] Apple TV[COLOR blue]+  [COLOR orange][I] < < < ♦ [/I]
