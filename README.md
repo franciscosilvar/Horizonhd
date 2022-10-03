@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] FILMES [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] FILMES [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/zsEpe5C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/indice%20categorias%20filmes</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] SERIES [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] SERIES [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/JP2daxM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20series</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
@@ -34,7 +34,7 @@
  
 <channels
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] KIDS [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] KIDS [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oNJ3etP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/KIDS</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
@@ -43,7 +43,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] GOSPEL [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] GOSPEL [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/J32l7qb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Gospel</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
@@ -51,7 +51,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] CLASSICOS [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] CLASSICOS [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/56BATDn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/cl%C3%A1ssicos</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] COLEÇÃO [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] COLEÇÃO [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/TFca4Ul.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20Cole%C3%A7ao</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
@@ -69,7 +69,7 @@
 
 <channels>
 <channel>
-<name>[COLOR crimson][B]|♦.:|[COLOR blue][I] ANIMES [/I][COLOR crimson][B]|♦.:|[/B][/COLOR]</name>
+<name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] ANIMES [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/EERTTH5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/categorias%20animes</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
