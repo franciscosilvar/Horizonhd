@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR blue][B][I] Pessoa de Interesse [/I][COLOR crimson] | ♦.:[COLOR orange][I] 1° [/I][/B][/COLOR]</link>
+<title>[COLOR blue][B][I] Pessoa de Interesse [/I][COLOR crimson] | ♦.:[COLOR orange][I] 1° [/I][/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6b730e95905f6437d08f7924279aacfba4eef30&amp;dn</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gJHrhh6Igd0NYmYhdybH9A5Mxpo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j4qTJxqRhpnV6dMcXss1Vnqn9fO.jpg</fanart>
@@ -11,5 +11,3 @@
 [COLOR orange][I] Gêneros [/I][COLOR dimgrey][I] Drama, Action & Adventure, Crime [/I]
 [COLOR dimgrey][I]★★★★★[/I][B][/COLOR][/B]</info>
 </item>
-
-
