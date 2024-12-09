@@ -1,41 +1,47 @@
-<layouttype>thumbnail</layouttype>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] LANÇAMENTOS [/I][/COLOR][/COLOR][COLOR crimson] 2024 [/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%202024</externallink>
 <fanart>https://image.tmdb.org/t/p/original/j3Z3XktmWB1VhsS8iXNcrR86PXi.jpg</fanart>
 <info></info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] LANÇAMENTOS [/I][/COLOR][/COLOR][COLOR crimson] 2023 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/qqcfzNu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%202023</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] LANÇAMENTOS [/I][/COLOR][/COLOR][COLOR crimson] 2022 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/FKplgbZ.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%202022</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
+</channels>
 
-
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] LANÇAMENTOS [/I][/COLOR][/COLOR][COLOR crimson] 2021 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/mXg0Mvc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Filmes%2020201</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] LANÇAMENTOS [/I][/COLOR][/COLOR][COLOR crimson] 2020 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/DHylK3I.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Filmes%202020</externallink>
@@ -44,15 +50,18 @@
 </channel>
 
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR white][B] Apple TV [COLOR blue] +[B][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/LKeT3uJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20Apple%20TV%2B</externallink>
 <fanart>https://i.imgur.com/Kd7n4KX.jpg</fanart>
 <info>[COLOR white][B][I] [COLOR white][B] Apple TV[COLOR blue]+ [/I][COLOR blueviolet][I] os melhores filmes estão a aqui [/I][B][/COLOR][/B]</info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR white] Disney[COLOR blue] + [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/F7sdoJU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Disney%2B</externallink>
@@ -61,7 +70,8 @@
 </channel>
 
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR blue][B]●[COLOR crimson] GLOBOPLAY [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/rAeqw7O.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/globoplay</externallink>
@@ -69,96 +79,102 @@
 <info>[COLOR crimson][B] > [COLOR blue] > [COLOR orange] > [COLOR crimson] GLOBOPLAY [COLOR orange] [COLOR orange][B] < [COLOR blue] < [COLOR crimson] < [COLOR blueviolet][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR white] HBO Max [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/H4w2vXg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/HBO%20Max</externallink>
 <fanart>https://i.imgur.com/D6EUdKL.jpg</fanart>
 <info>[COLOR orange][B][I] ♦> > > [/I][COLOR white][B] >>>> HBO Max <<<< [COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes e Série estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
-
 <channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR blue][B]●[COLOR crimson] NETFLIX [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/p0TTwCb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/NETFLIX</externallink>
 <fanart>https://i.imgur.com/Ya0LNFK.png</fanart>
 <info>[COLOR orange][B] > [COLOR blue] > [COLOR crimson] > [COLOR blue][I] Os [/I][COLOR crimson] < [COLOR blue] < [COLOR orange] < [COLOR orange][I] Melhores conteúdo da [/I] [COLOR crimson] NETFLIX [COLOR blue][I] estão aqui [/I][B][/COLOR][/B]</info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue] Prime [COLOR white] Video [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Ywrguti.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Prime%20Video</externallink>
 <fanart>https://i.imgur.com/Ft3oL6d.jpg</fanart>
 <info>[COLOR orange][B][I] ♦ > > > [/I][COLOR blue][B][I] Amazon Prime [COLOR orange][I] < < < ♦ [/I][COLOR blue][I] Chegou ao Horizonhd [/I][B][/COLOR][/B]</info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR white] STA[COLOR orange]★[COLOR white]R+ [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/STjInLj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/STA%E2%98%85R%2B</externallink>
 <fanart>https://i.imgur.com/Ki2OrcQ.jpg</fanart>
 <info>[COLOR orange][B][I] ♦ > > >  [/I][COLOR white] STA[COLOR orange]★[COLOR white]R+ [COLOR orange][I]  < < < ♦ [/I][COLOR blue][I][I] os melhores filmes e serie estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
+</channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR white] TELE[COLOR crimson] CINE [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/vmEzHPY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20TELE%20CINE</externallink>
 <fanart>https://i.imgur.com/qTQItur.jpg</fanart>
 <info>[COLOR orange][B][I] ♦> > > [/I][COLOR white] TELE [COLOR crimson] CINE [COLOR orange][I] < < <♦ [/I][COLOR blue][I] Filmes  estão a aqui  [/I][/B][/COLOR]</info>
 </channel>
+</channels>
 
-
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] TERROR [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/qZzGmQ0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/TERROR</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
-
-
 <channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] DIVERSOS [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/ki3uU4p.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/FILMES%20diversos</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
-
 <channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] ANIMAÇÕES [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/williamrdn44/inicio-addon/master/anima%C3%A7%C3%A3o%20link</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
-
-
 <channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] FAROESTE [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/tpWCasR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Faroeste</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
-
-
 <channels>
 
-</channels><channel>
+</channels>
+<channel>
 <name>[COLOR crimson][B]●[COLOR blue][I] ANIMATION [/I][/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/OSQGreW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/ANIMES</externallink>
 <fanart>https://i.imgur.com/9lmK8E3.jpg</fanart>
 <info></info>
 </channel>
+</channels>
