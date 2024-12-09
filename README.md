@@ -21,7 +21,7 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info>[COLOR aquamarine][B]Vê Que Tem [/B][/COLOR]</info>
 </channel>
- 
+</channels>
 
 <channels>
 <channel>
@@ -31,7 +31,8 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info>[COLOR aquamarine][B] As melhores séries preferidas assistir veja e reveja online quando e onde quiser pelo kodi[/B][/COLOR]</info>
 </channel>
- 
+</channels>
+
 <channels
 <channel>
 <name>[COLOR lightgreen][B]|♦.:|[COLOR blue][I] KIDS [/I][COLOR lightgreen][B]|♦.:|[/B][/COLOR]</name>
@@ -40,6 +41,7 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info>[COLOR aquamarine][B] Os melhores anime preferidas assistir veja e reveja online quando e onde quiser aqui no kodi[/B][/COLOR]</info>
 </channel>
+</channels>
 
 <channels>
 <channel>
@@ -48,6 +50,7 @@
 <externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/main/Gospel</externallink>
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 </channel>
+</channels>
 
 <channels>
 <channel>
@@ -57,6 +60,7 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info></info>
 </channel>
+</channels>
 
 <channels>
 <channel>
@@ -66,6 +70,7 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info></info>
 </channel>
+</channels>
 
 <channels>
 <channel>
@@ -75,5 +80,5 @@
 <fanart>https://i.imgur.com/o3pyyDG.jpg</fanart>
 <info>[COLOR aquamarine][B] OS MELHORES ANIMES ESTÃO AQUI, [/B][/COLOR]</info>
 </channel>
-
+</channels>
 
