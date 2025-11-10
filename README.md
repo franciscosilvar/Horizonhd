@@ -1,6 +1,5 @@
-<info
-<item>
 
+</title>
 
 <channels>
 <channel>
