@@ -1,5 +1,16 @@
-[COLOR lightgreen][B][I] ##### [/I][COLOR blue]|♦.:|[COLOR orange][I] FHD [/I][/B]
-<link>
+tle>[COLOR lightgreen][B][I] ##### [/I][COLOR blue]|♦.:|[COLOR orange][I] FHD [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgMYt20P7ws2CfB5LaAo1PjD90i.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR orange][B] ♦ > > > [COLOR lime] Horizon [COLOR orange] < < < ♦
+[COLOR lime] Ano de Lançamento  [COLOR white]: [COLOR lime] 2025
+[COLOR lime] Duração [COLOR lime] 1h 58m
+[COLOR lime] Áudio: Dual Áudio
+[COLOR dimgrey] Avaliação dos usuário [COLOR lime] 80%
+[COLOR lime] Sinopse [COLOR lime]:[COLOR aquamarine] #### 
+[COLOR orange] Gêneros [COLOR dimgrey][I] ###### [/I]
+[COLOR dimgrey][I]★★★★★[/I][B][/COLOR][/B]</info>
+</item>
 
 <channels>
 <channel>
