@@ -1,3 +1,5 @@
+[COLOR lightgreen][B][I] ##### [/I][COLOR blue]|♦.:|[COLOR orange][I] FHD [/I][/B]
+<link>
 
 <channels>
 <channel>
