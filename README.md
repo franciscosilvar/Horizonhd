@@ -1,6 +1,4 @@
 
-</title>
-
 <channels>
 <channel>
 <name>[COLOR blueviolet][B]SEJAM BEM VINDOS[/B][/COLOR]</name>*
