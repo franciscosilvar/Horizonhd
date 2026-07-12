@@ -70,6 +70,15 @@
 <info>
 </channel>
 
+</channels>
+<channel>
+<name>[COLOR crimson][B]●[COLOR blue][I] FILMES 4K [/I][/COLOR] [/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_face/gtCeJQRQPPpwlLfAvdMAVGaCYXt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/franciscosilvar/Horizonhd/refs/heads/main/FILMES%204K</externallink>
+<fanart>https://image.tmdb.org/t/p/original/j3Z3XktmWB1VhsS8iXNcrR86PXi.jpg</fanart>
+<info>
+</channel>
+</channels>
 
 </channels>
 <channel>
